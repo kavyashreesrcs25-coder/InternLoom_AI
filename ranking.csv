@@ -1,0 +1,4 @@
+rank,name,email,score,shortlist_status,confidence,matched_required,missing_required,normalized_cgpa,skills_count,projects_count,internships_count,reason_1
+1,John Doe,john.doe@email.com,87.5,Shortlisted,High,"Python; FastAPI; PostgreSQL; Docker; Git","",8.5,12,3,2,Strong skill alignment — matched 5/5 required skills (100%) including Python FastAPI PostgreSQL.
+2,Jane Smith,jane.smith@gmail.com,71.2,Shortlisted,High,"Python; Docker; Git","FastAPI; PostgreSQL",7.8,9,2,1,Partial skill match — met 3/5 required skills. Missing: FastAPI PostgreSQL.
+3,Rahul Kumar,rahul.k@outlook.com,58.4,Reserve,Medium,"Python; Git","FastAPI; PostgreSQL; Docker",7.2,7,1,1,Partial skill match — met 2/5 required skills. Missing: FastAPI PostgreSQL Docker.
