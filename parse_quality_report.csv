@@ -1,0 +1,4 @@
+filename,parse_status,strategy_used,word_count,confidence,completeness_pct,fields_present,fields_missing,penalties,notes
+john_doe_resume.pdf,Clean,pymupdf,542,High,94.0,"Name; Email; Phone; College; Degree; Skills; Graduation Year; CGPA; Projects; Internships","Certifications","","Parsed via pymupdf (542 words). Field completeness: 94.0%. Overall confidence: High."
+jane_smith_resume.pdf,Clean,pdfplumber,489,High,87.0,"Name; Email; College; Degree; Skills; Graduation Year; CGPA; Projects; Internships; Certifications","Phone","","Parsed via pdfplumber (489 words). Field completeness: 87.0%. Overall confidence: High."
+rahul_resume.pdf,Partial,pdfplumber,312,Medium,71.0,"Name; Email; College; Degree; Skills; CGPA; Projects","Phone; Graduation Year; Internships; Certifications","Low word count (312 words < 50 threshold)","Parsed via pdfplumber (312 words). Field completeness: 71.0%. Overall confidence: Medium. Partial extraction — some sections may be incomplete."
