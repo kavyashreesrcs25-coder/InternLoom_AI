@@ -1,0 +1,3 @@
+job_role,rank,name,email,score,shortlist_status,confidence,cgpa,matched_required,missing_required,filename
+Full Stack,1,Kavya Resume,kavyashree0814@gmail.com,36.4,Rejected,High,7.95,Firebase,Node.js; GraphQL; CI/CD; React; REST API,Kavya Resume.pdf
+Full Stack,2,Jake_s_Resume (1),kavyashree0814@gmail.com,36.4,Rejected,High,7.95,Firebase,Node.js; GraphQL; CI/CD; React; REST API,Jake_s_Resume (1).pdf
