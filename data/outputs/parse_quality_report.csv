@@ -1,0 +1,3 @@
+filename,parse_status,strategy_used,word_count,confidence,completeness,fields_missing,penalties
+Kavya Resume.pdf,Clean,pymupdf,340,High,80.0,Name; Internships,Candidate name could not be extracted
+Jake_s_Resume (1).pdf,Clean,pymupdf,340,High,80.0,Name; Internships,Candidate name could not be extracted
