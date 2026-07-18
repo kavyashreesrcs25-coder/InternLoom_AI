@@ -1,0 +1,53 @@
+# ─────────────────────────────────────────────────────────────────
+# InternLoom AI — Python Dependencies
+# Install:  pip install -r requirements.txt
+# Python:   3.12+
+# ─────────────────────────────────────────────────────────────────
+
+# ── Web UI ────────────────────────────────────────────────────────
+streamlit==1.35.0
+
+# ── PDF Parsing ───────────────────────────────────────────────────
+PyMuPDF==1.24.5
+pdfplumber==0.11.1
+pdfminer.six==20231228
+
+# ── OCR ───────────────────────────────────────────────────────────
+easyocr==1.7.1
+opencv-python-headless==4.9.0.80
+Pillow==10.3.0
+
+# ── NLP ───────────────────────────────────────────────────────────
+spacy==3.7.4
+# After install run:  python -m spacy download en_core_web_sm
+
+# ── Embeddings / Semantic Matching ────────────────────────────────
+sentence-transformers==3.0.1
+
+# ── Fuzzy Matching ────────────────────────────────────────────────
+rapidfuzz==3.9.3
+
+# ── ML / Data ─────────────────────────────────────────────────────
+scikit-learn==1.5.0
+numpy==1.26.4
+pandas==2.2.2
+
+# ── Visualisation ─────────────────────────────────────────────────
+plotly==5.22.0
+
+# ── Document Export ───────────────────────────────────────────────
+python-docx==1.1.2
+
+# ── LLM / LangChain (optional — not required for core features) ───
+# Uncomment to enable LLM-enhanced JD parsing and score explanations
+# langchain==0.2.6
+# langchain-openai==0.1.14
+# openai==1.35.3
+
+# ── HTTP / Google Drive Import ────────────────────────────────────
+requests==2.32.3
+gdown==5.2.0
+
+# ── Utilities ─────────────────────────────────────────────────────
+tqdm==4.66.4
+python-dotenv==1.0.1
