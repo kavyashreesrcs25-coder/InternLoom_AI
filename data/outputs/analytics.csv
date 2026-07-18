@@ -1,0 +1,24 @@
+metric,label,value
+skill_frequency,Android,2.0
+skill_frequency,Artificial Intelligence,2.0
+skill_frequency,Dart,2.0
+skill_frequency,Figma,2.0
+skill_frequency,Firebase,2.0
+skill_frequency,Flutter,2.0
+skill_frequency,Git,2.0
+skill_frequency,GitHub,2.0
+skill_frequency,Java,2.0
+skill_frequency,Jupyter,2.0
+skill_frequency,Machine Learning,2.0
+skill_frequency,Matplotlib,2.0
+skill_frequency,MySQL,2.0
+skill_frequency,NumPy,2.0
+skill_frequency,Pandas,2.0
+skill_frequency,Python,2.0
+skill_frequency,R,2.0
+skill_frequency,Scikit-learn,2.0
+candidates_per_job,Full Stack,2.0
+avg_score_per_job,Full Stack,36.4
+shortlist_status,Shortlisted,0.0
+shortlist_status,Reserve,0.0
+shortlist_status,Rejected,2.0
